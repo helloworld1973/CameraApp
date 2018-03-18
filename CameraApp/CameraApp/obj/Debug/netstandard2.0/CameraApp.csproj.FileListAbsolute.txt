@@ -1,0 +1,11 @@
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp\bin\Debug\netstandard2.0\CameraApp.deps.json
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp\bin\Debug\netstandard2.0\CameraApp.dll
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp\obj\Debug\netstandard2.0\CameraApp.csprojResolveAssemblyReference.cache
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp\obj\Debug\netstandard2.0\CameraApp.csproj.CoreCompileInputs.cache
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp\obj\Debug\netstandard2.0\CameraApp.App.xaml.g.cs
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp\obj\Debug\netstandard2.0\CameraApp.AssemblyInfoInputs.cache
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp\obj\Debug\netstandard2.0\CameraApp.AssemblyInfo.cs
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp\obj\Debug\netstandard2.0\CameraApp.MediaPage.xaml.g.cs
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp\bin\Debug\netstandard2.0\CameraApp.pdb
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp\obj\Debug\netstandard2.0\CameraApp.dll
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp\obj\Debug\netstandard2.0\CameraApp.pdb

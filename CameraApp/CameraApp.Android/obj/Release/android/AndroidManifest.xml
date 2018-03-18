@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.CameraApp" android:installLocation="preferExternal">
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="25" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-feature android:name="android.hardware.camera" android:required="false" />
+  <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+  <application android:label="CameraApp.Android" android:icon="@drawable/icon" android:name="md52d409cb1694d17f91b302696456d112e.MainApplication" android:allowBackup="true">
+    <provider android:name="android.support.v4.content.FileProvider" android:authorities="com.companyname.CameraApp.fileprovider" android:exported="false" android:grantUriPermissions="true">
+      <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"></meta-data>
+    </provider>
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="CameraApp" android:theme="@style/MainTheme" android:name="md52d409cb1694d17f91b302696456d112e.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:configChanges="orientation|screenSize" android:name="md5dff1bed22da39876f271fd39214b8f60.MediaPickerActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.CameraApp.mono.MonoRuntimeProvider.__mono_init__" />
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+  </application>
+</manifest>
