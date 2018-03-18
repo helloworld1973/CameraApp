@@ -33,6 +33,7 @@ D:\VS2017Projects\CameraApp\CameraApp\CameraApp.Android\obj\Debug\android\assets
 D:\VS2017Projects\CameraApp\CameraApp\CameraApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 D:\VS2017Projects\CameraApp\CameraApp\CameraApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 D:\VS2017Projects\CameraApp\CameraApp\CameraApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\VS2017Projects\CameraApp\CameraApp\CameraApp.Android\bin\Debug\CameraApp.Android.dll
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\Plugin.Media.dll.mdb
 bin\Debug\Plugin.Permissions.dll.mdb
